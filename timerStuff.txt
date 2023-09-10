@@ -1,2 +1,4 @@
 https://api.haxe.org/flash/utils/Timer.html
+https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/utils/Timer.html
+
 https://api.haxe.org/flash/utils/SetIntervalTimer.html

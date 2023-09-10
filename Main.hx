@@ -6,6 +6,7 @@ class Main extends flash.display.MovieClip{
         var stage = Lib.current.stage;
         var goomba:PlayerImage = new PlayerImage();
         stage.addChild(goomba);
-        goomba.gotoAndPlay("left");
+        //goomba.gotoAndPlay("left");
+        goomba.ShortTimer();
     }
 }

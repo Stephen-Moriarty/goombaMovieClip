@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	
+<movie width="16" height="16" framerate="2">
+  <background color="#ffffff"/>
+
+  <clip id="left" import="goombaLeft.png"/>
+  <clip id="right" import="goombaRight.png"/>
+  <library>
+    <clip id="PlayerImage">
+    <!--Opening-->
+      <frame name="left">
+            <place id="left" depth="1"/>
+            <stop/>
+      </frame>
+      <frame name="right">
+            <place id="right" depth="1"/>
+            <stop/>
+      </frame>
+    </clip>
+  </library>
+</movie>

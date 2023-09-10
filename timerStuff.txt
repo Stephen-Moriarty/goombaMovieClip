@@ -1,0 +1,2 @@
+https://api.haxe.org/flash/utils/Timer.html
+https://api.haxe.org/flash/utils/SetIntervalTimer.html

@@ -7,7 +7,6 @@
   <clip id="right" import="goombaRight.png"/>
   <library>
     <clip id="PlayerImage">
-    <!--Opening-->
       <frame name="left">
             <place id="left" depth="1"/>
             <stop/>

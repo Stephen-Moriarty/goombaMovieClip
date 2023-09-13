@@ -3,6 +3,6 @@
 --swf-version 32
 --swf-lib-extern PlayerImage.swf
 --swf-lib PlayerImage.swf
--D swf-header=144:144:30:00ff00
+-D swf-header=144:144:60:00ff00
 -D no-swf-compress
 #--swf-header 128:128:30:00ff00
